@@ -6,5 +6,6 @@ Selenium是一款自动化测试工具。它能实现操纵浏览器，包括字
 一些常见的Selenium例子，代码通用性较高，时效性较久。**项目代码对新手比较友好**，尽量用简单的Selenium代码，并配有大量注释。
 
 ### 一些常用的selenium项目
+- [Selenium官网](https://github.com/SeleniumHQ/selenium) https://github.com/SeleniumHQ/selenium
+- [RIDE项目](https://github.com/robotframework/RIDE)https://github.com/robotframework/RIDE
 
-一些项目来至于自己、还有一些是收藏的一些使用selenium实现比较酷炫功能的项目
