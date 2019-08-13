@@ -9,4 +9,5 @@ Selenium是一款自动化测试工具。它能实现操纵浏览器，包括字
 - [Selenium官网](https://github.com/SeleniumHQ/selenium)
 - [RIDE项目](https://github.com/robotframework/RIDE)
 - [Robot Framework](https://github.com/robotframework/robotframework)
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 
