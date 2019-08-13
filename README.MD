@@ -11,3 +11,6 @@ Selenium是一款自动化测试工具。它能实现操纵浏览器，包括字
 - [Robot Framework](https://github.com/robotframework/robotframework)
 - [SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 
+### 浏览器驱动下载
+- [Chromedriver](https://npm.taobao.org/mirrors/chromedriver/)
+-[Geckodriver](https://npm.taobao.org/mirrors/geckodriver/)
